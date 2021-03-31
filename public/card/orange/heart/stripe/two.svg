@@ -1,0 +1,16 @@
+<svg width="400" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path stroke="#ffaa56" id="svg_1" d="m174.46758,241.9894c-43.03716,-28.90086 -58.42439,-47.18257 -58.54963,-69.56409c-0.11288,-20.40324 18.88204,-40.09418 38.56669,-39.97984c9.83018,0.05676 30.91534,7.56566 38.38228,13.66843c3.76201,3.07465 5.54341,2.77299 13.91913,-2.36778c22.79573,-13.992 45.05608,-14.28528 59.4726,-0.78633c23.04056,21.57741 18.84546,47.34306 -12.05908,74.06808c-16.4305,14.20876 -52.31172,39.41711 -56.1059,39.41711c-1.15459,0 -11.78659,-6.50426 -23.62608,-14.45558l0,0z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" fill="#fff"/>
+  <path stroke="#ffaa56" id="svg_2" d="m175.52237,383.38416c-44.60172,-28.20029 -60.54947,-46.04132 -60.67943,-67.8811c-0.11722,-19.90903 19.56889,-39.12332 39.96976,-39.01257c10.18813,0.05276 32.039,7.3815 39.77689,13.33771c3.89937,3.00211 5.74672,2.70419 14.42665,-2.31158c23.62413,-13.65326 46.69421,-13.93759 61.63498,-0.76437c23.87817,21.05334 19.5293,46.19479 -12.4985,72.27567c-17.02789,13.86374 -54.21217,38.4621 -58.14622,38.4621c-1.19577,0 -12.2146,-6.3493 -24.48412,-14.10583l0,0z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" fill="#fff"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="157" x2="279.5" y1="157" x1="120.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="180" x2="278.5" y1="181" x1="116.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="207" x2="258.5" y1="208" x1="136.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="229" x2="233.5" y1="230" x1="163.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="298" x2="278.5" y1="300" x1="121.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="324" x2="281.5" y1="326" x1="116.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="352" x2="260.5" y1="353" x1="137.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="374" x2="232.5" y1="375" x1="162.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#ffaa56" fill="none"/>
+ </g>
+</svg>

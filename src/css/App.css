@@ -1,0 +1,120 @@
+h1{
+    text-align: center;
+    position:relative;
+    color:maroon;
+    margin: 10px 30px;
+}
+
+.modeOption{
+    text-align: center;
+    position:relative;
+    color:rosybrown;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.gamePageButtons{
+    position:relative;
+    left:50%;
+    transform: translate(-50%,0);
+    height: 50px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:lightslategray;
+    border-radius: 15px;
+}
+
+.gamePageButton{
+    padding: 5px;
+    margin-bottom: 0px;
+    height: 40px;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.gamePageButton:hover{
+    background-color:papayawhip;
+    color:rosybrown;
+    border: solid steelblue;
+    border-radius: 15px;
+}
+
+.deckInfo{
+    font-size: large;
+    margin-top: 20px;
+    text-align: center;
+    color:maroon;
+}
+
+.navbar{
+    width: 100%;
+    display:flex;
+    justify-content:center; 
+    align-items:center; 
+    background-color: darkcyan;
+    border-radius: 35%;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+
+}
+.gameTitle{
+    align-self: center;
+    text-align: center;
+    height: 50px;
+    font-size: 50px;
+    color:darkgoldenrod;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+.link{
+    margin: 15px;
+    font-size: 30px;
+    color: wheat;
+}
+.linkButtons{
+    justify-content:space-evenly;
+}
+
+.link:hover{
+    color: white;
+    background-color: chocolate;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+@media(max-width:650px){
+    .gameTitle {
+        font-size: 35px;
+        margin: 5px 10px;
+    }
+
+    .gamePageButton{
+        padding: 5px;
+        margin-bottom: 0px;
+        height: 40px;
+    }
+
+    .gamePageButtons{
+        position:absolute;
+        left:50%;
+        top:90%;
+        transform: translate(-50%, 0%);
+        z-index: 10;
+    }
+    .modeOption{
+        font-size: x-large;
+        margin-bottom: 10px;
+    }
+
+  
+}
+
+
+
+

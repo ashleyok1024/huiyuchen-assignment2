@@ -1,0 +1,12 @@
+<svg width="400" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path stroke="#bf0000" id="svg_1" d="m174.49831,284.24139c-46.16742,-33.32921 -62.67418,-54.41159 -62.80778,-80.22206c-0.12199,-23.52829 20.2542,-46.2382 41.37121,-46.10631c10.54477,0.06519 33.16402,8.72426 41.17346,15.76302c4.0358,3.54556 5.94719,3.19704 14.93195,-2.73108c24.45311,-16.13596 48.33228,-16.47388 63.79739,-0.90616c24.7168,24.88306 20.21689,54.59645 -12.93582,85.41666c-17.62596,16.38588 -56.11601,45.45699 -60.18665,45.45699c-1.23846,0 -12.64351,-7.50137 -25.34377,-16.67105l0,0z" opacity="undefined" fill-opacity="null" stroke-dasharray="null" stroke-width="5" fill="#fff"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="180.5" x2="279" y1="179.5" x1="121" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#bf0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="205.5" x2="289" y1="204.5" x1="115" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#bf0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="242.5" x2="272" y1="241.5" x1="125" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#bf0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="269.5" x2="244" y1="268.5" x1="153" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" stroke="#bf0000" fill="none"/>
+  <line stroke="#bf0000" stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="286.5" x2="219" y1="287.5" x1="180" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="5" fill="none"/>
+ </g>
+</svg>

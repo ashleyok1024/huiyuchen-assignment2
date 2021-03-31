@@ -1,0 +1,35 @@
+#card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100px;
+    height: 80px;
+    padding: 10px;
+    background-position: center;
+    border-radius: 30px;
+    margin: 5px;
+    background-color:cornsilk;
+}
+
+.selected{
+    border: 2px solid rgb(218, 182, 21);
+}
+#card.unselect:hover {
+    border: 2px solid chocolate;
+}
+.unselect{
+    background-color:rgb(255, 255, 255);
+    border: 2px solid rgba(134, 192, 226, 0.719);
+}
+
+@media(max-width:650px){
+    #card {
+        width: 80px;
+        height: 60px;
+        padding: 5px;
+        margin: 4px;
+    }
+}
+
+
+

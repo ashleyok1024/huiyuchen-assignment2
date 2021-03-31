@@ -1,0 +1,52 @@
+.levels{
+    position:absolute;
+    top: 65%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: 600px;
+    width: 400px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    border-color: lightskyblue;
+    background-color: lightsteelblue;
+}
+
+.singleLevelButton{
+    display: flex;
+    margin: 30px;
+    height: 70px;
+    width: 200px;
+    font-size: 35px;
+    top: 50%;
+    left:50%;
+    color: rgb(36, 88, 88);
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+
+}
+
+.singleLevelButton:hover{
+    background-color:papayawhip;
+    color:rosybrown;
+    border: solid steelblue;
+    border-radius: 15px;
+}
+
+@media(max-width:650px){
+    .levels {
+        width: 200px;
+        height: 300px;
+        position:absolute;
+        top: 50%;
+        left:50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .singleLevelButton{
+        font-size: 20px;
+
+    }
+}
